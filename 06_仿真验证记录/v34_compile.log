@@ -1,0 +1,214 @@
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+Start time: 15:03:17 on Nov 03,2026
+vlog -sv -work v34_work -l v34_compile.log E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\video_in.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\..\ip_source\w128_d512_fifo\soft_fifo_al_4057d6b76aa6.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\hdmi_mixer.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\design_top_wrapper.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\isp\isp_top.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\isp\data96_128\data96_128.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\uiisp_beta\ae_set.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\key_remove_shakes.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\osd_char_lib.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\anlogic_logo_rom.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\uics500_cfg\uicfgcs500_720p.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\uics500_cfg\uii2c.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\uics500_cfg\uics500reg_720p60.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\uics500_cfg\uics500regAE.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\uics500_cfg\SC500GainTbl.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\awb.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\label_application_v4.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\label_background_map.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\label_barcode_session.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\label_char_lib.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\label_div.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\label_keys.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\label_message_rom.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\label_observation_fusion.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\label_overlay_projection.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\label_rect_fit.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\label_relative.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\label_result_io.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\label_scene_controller.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\label_scene_detector_map.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\label_scene_overlay_v4.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\label_target.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\label_trig.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\label_trig_sync.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\v34_logo_rom.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\barcode_station.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\barcode_code128_pattern.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v42_dynamic_controller.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v43_barcode.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v43_barcode_pixels.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\motion_region_counter.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\uart_telemetry.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_motion_region_counter.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_motion_regions_stream.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_uart_telemetry.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\video_out.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\..\ip_source\w128_d512_fifo\w128_d512_fifo.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\v40_tracker_reference.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v20_ae_latency.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v20_camera.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v20_osd.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_servo_pan_tracker_modes.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v20_ae_chain.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v21_gain_table.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v23_awb_green_bias.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v24_region_fill.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v25_histogram.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v25_histogram_continuous.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v25_target_selection.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v25_measure_guard.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v31_video_in.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v32_display.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v33_learning.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v33_overlay.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v33_integration.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v33_mixer.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v33_panel_font.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v33_osd_stream.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v34_logo.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v34_control.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v34_keys.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v34_mux.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v34_lock.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v34_video.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v34_histogram60.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v34_trig.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v34_edge_ram.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v35_ref_edges.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v35_controller_scale.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v36_reentry.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v37_servo_smooth.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v37_result_display.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v37_rededge_stream.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v38_uart_protocol.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v38_servo_dynamics.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v39_control.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v39_tracking_loop.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v39_uart_back_to_back.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_caption.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_tracker_equivalence.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_tracker_width_equivalence.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\v34_fixtures.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\v32_reference_mixer.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\sim_out\v34_awb_lock_fixture.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\label\tb_region.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\label\tb_result_io.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\label\tb_hud_cache.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\label\tb_raster_optimization.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\label\tb_optimization_equivalence.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\label\reference\label_observation_fusion.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\label\reference\label_rect_fit.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\label\reference\label_relative.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\label\reference\label_scene_controller.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\label\reference\label_scene_detector_map.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\label\reference\label_scene_overlay_v4.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\label\label_logo_half_rom.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\isp\edge_detect_96.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\edge_detect_96_reference.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\v35_ref_fixture.sv E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\v34_scene_controller_baseline.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\v35_mixer_baseline.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\user_source\hdl_source\vtc\uivtc.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\v37_servo_baseline.v E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\v38_servo_baseline.v 
+-- Compiling module video_in
+-- Compiling module soft_fifo_al_4057d6b76aa6
+-- Compiling module fifo_cross_domain_addr_process_al_4057d6b76aa6
+-- Compiling module ram_infer_4057d6b76aa6
+-- Compiling module hdmi_mixer
+-- Compiling module motion_detector
+-- Compiling module rectangle_tracker
+-- Compiling module osd_latency_ms
+-- Compiling module blue_zoom_banner
+-- Compiling module target_color_learning
+-- Compiling module target_teach_overlay
+-- Compiling module design_top_wrapper
+-- Compiling module servo_pan_tracker
+-- Compiling module uart_switch_control
+-- Compiling module uart_action_bridge
+-- Compiling module switch_state_sync
+-- Compiling module switch_state_display
+-- Compiling module isp_top
+-- Compiling module black_rectangle_tracker4
+-- Compiling module ae_raw_meter
+-- Compiling module histogram_equalizer4
+-- Compiling module live_histogram_overlay4
+-- Compiling module data_96bit_to_128bit
+-- Compiling module ae_set
+-- Compiling module ae_debug_snapshot
+-- Compiling module key_remove_shakes
+-- Compiling module osd_char_lib
+-- Compiling module anlogic_logo_rom
+-- Compiling module uicfgcs500_720p
+-- Compiling module uii2c
+-- Compiling module uics500reg_720p60
+-- Compiling module uics500regAE
+-- Compiling module SC500GainTbl
+-- Compiling module awb
+-- Compiling module awb_shared_divider
+-- Compiling module awb_gain_bias
+-- Compiling module label_application
+-- Compiling module label_background_map
+-- Compiling module label_barcode_session
+-- Compiling module label_char_lib
+-- Compiling module label_div
+-- Compiling module label_keys
+-- Compiling module label_message_rom
+-- Compiling module label_observation_fusion
+-- Compiling module label_overlay_projection
+-- Compiling module label_rect_fit
+-- Compiling module label_relative
+-- Compiling module label_result_io
+-- Compiling module label_scene_controller
+-- Compiling module label_scene_detector_map
+-- Compiling module label_scene_overlay_v4
+-- Compiling module label_target
+-- Compiling module label_trig
+-- Compiling module label_trig_sync
+-- Compiling module v34_logo_rom
+-- Compiling module barcode_row_reader
+-- Compiling module barcode_code128_pattern
+-- Compiling module tb_v42_dynamic_controller
+-- Compiling module tb_v43_barcode
+-- Compiling module tb_v43_barcode_pixels
+-- Compiling module motion_region_counter
+-- Compiling module uart_telemetry
+-- Compiling module tb_motion_region_counter
+-- Compiling module tb_motion_regions_stream
+-- Compiling module tb_uart_telemetry
+-- Compiling module video_out
+-- Compiling module w128_d512_fifo
+-- Compiling module rectangle_tracker_v40_reference
+-- Compiling module tb_v20_ae_latency
+-- Compiling module tb_v20_camera
+-- Compiling module tb_v20_osd
+-- Compiling module tb_servo_pan_tracker_modes
+-- Compiling module tb_v20_ae_chain
+-- Compiling module tb_v21_gain_table
+-- Compiling module tb_v23_awb_green_bias
+-- Compiling module tb_v24_region_fill
+-- Compiling module tb_v25_histogram
+-- Compiling module tb_v25_histogram_continuous
+-- Compiling module tb_v25_target_selection
+-- Compiling module tb_v25_measure_guard
+-- Compiling module tb_v31_video_in
+-- Compiling module tb_v32_display
+-- Compiling module tb_v33_learning
+-- Compiling module tb_v33_overlay
+-- Compiling module tb_v33_integration
+-- Compiling module tb_v33_mixer
+-- Compiling module tb_v33_panel_font
+-- Compiling module tb_v33_osd_stream
+-- Compiling module tb_v34_logo
+-- Compiling module tb_v34_control
+-- Compiling module tb_v34_keys
+-- Compiling module tb_v34_mux
+-- Compiling module tb_v34_lock
+-- Compiling module tb_v34_video
+-- Compiling module tb_v34_histogram60
+-- Compiling module tb_v34_trig
+-- Compiling module edge_compare
+-- Compiling module tb_v34_edge_ram
+-- Compiling module tb_v35_ref_edges
+-- Compiling module tb_v35_controller_scale
+-- Compiling module tb_v36_reentry
+-- Compiling module tb_v37_servo_smooth
+-- Compiling module tb_v37_result_display
+-- Compiling module tb_v37_rededge_stream
+-- Compiling module tb_v38_uart_protocol
+-- Compiling module tb_v38_servo_dynamics
+-- Compiling module tb_v39_control
+-- Compiling module tb_v39_tracking_loop
+-- Compiling module tb_v39_uart_back_to_back
+-- Compiling module tb_v41_metrics
+-- Compiling module tb_v41_caption
+-- Compiling module tb_v41_tracker_equivalence
+-- Compiling module tb_v41_tracker_width_equivalence
+-- Compiling module v34_keys_fixture
+-- Compiling module v34_control_fixture
+-- Compiling module v34_mux_fixture
+-- Compiling module v34_histogram_pipeline_fixture
+-- Compiling module v37_edge_pipeline_fixture
+-- Compiling module v38_remote_fixture
+-- Compiling module v32ref_hdmi_mixer
+-- Compiling module v32ref_motion_detector
+-- Compiling module v32ref_rectangle_tracker
+-- Compiling module v32ref_osd_latency_ms
+-- Compiling module v32ref_blue_zoom_banner
+-- Compiling module v34_awb_lock_fixture
+-- Compiling module tb_region
+-- Compiling module tb_result_io
+-- Compiling module tb_hud_cache
+-- Compiling module tb_raster_optimization
+-- Compiling module tb_optimization_equivalence
+-- Compiling module label_observation_fusion_reference
+-- Compiling module label_rect_fit_reference
+-- Compiling module label_relative_reference
+-- Compiling module label_scene_controller_reference
+-- Compiling module label_scene_detector_map_reference
+-- Compiling module label_scene_overlay_v4_reference
+-- Compiling module label_logo_half_rom
+-- Compiling module edge_detect_96
+-- Compiling module edge_line_memory
+-- Compiling module edge_detect_96_reference
+-- Compiling module v35_ref_fixture
+-- Compiling module label_scene_controller_v34_baseline
+-- Compiling module hdmi_mixer_v35_baseline
+-- Compiling module uivtc
+-- Compiling module servo_pan_tracker_v37_baseline
+-- Compiling module servo_pan_tracker_v38_baseline
+
+Top level modules:
+	blue_zoom_banner
+	design_top_wrapper
+	black_rectangle_tracker4
+	label_background_map
+	label_target
+	tb_v42_dynamic_controller
+	tb_v43_barcode
+	tb_v43_barcode_pixels
+	tb_motion_region_counter
+	tb_motion_regions_stream
+	tb_uart_telemetry
+	tb_v20_ae_latency
+	tb_v20_camera
+	tb_v20_osd
+	tb_servo_pan_tracker_modes
+	tb_v20_ae_chain
+	tb_v21_gain_table
+	tb_v23_awb_green_bias
+	tb_v24_region_fill
+	tb_v25_histogram
+	tb_v25_histogram_continuous
+	tb_v25_target_selection
+	tb_v25_measure_guard
+	tb_v31_video_in
+	tb_v32_display
+	tb_v33_learning
+	tb_v33_overlay
+	tb_v33_integration
+	tb_v33_mixer
+	tb_v33_panel_font
+	tb_v33_osd_stream
+	tb_v34_logo
+	tb_v34_control
+	tb_v34_keys
+	tb_v34_mux
+	tb_v34_lock
+	tb_v34_video
+	tb_v34_histogram60
+	tb_v34_trig
+	tb_v34_edge_ram
+	tb_v35_ref_edges
+	tb_v35_controller_scale
+	tb_v36_reentry
+	tb_v37_servo_smooth
+	tb_v37_result_display
+	tb_v37_rededge_stream
+	tb_v38_uart_protocol
+	tb_v38_servo_dynamics
+	tb_v39_control
+	tb_v39_tracking_loop
+	tb_v39_uart_back_to_back
+	tb_v41_metrics
+	tb_v41_caption
+	tb_v41_tracker_equivalence
+	tb_v41_tracker_width_equivalence
+	tb_region
+	tb_result_io
+	tb_hud_cache
+	tb_raster_optimization
+	tb_optimization_equivalence
+	hdmi_mixer_v35_baseline
+End time: 15:03:19 on Nov 03,2026, Elapsed time: 0:00:02
+Errors: 0, Warnings: 0

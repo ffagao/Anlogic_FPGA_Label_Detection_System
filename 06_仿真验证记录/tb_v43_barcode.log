@@ -1,0 +1,30 @@
+# vsim -c -lib v34_work -l tb_v43_barcode.log -do "onerror {quit -code 1 -f}; run -all; quit -f" tb_v43_barcode 
+# Start time: 15:03:24 on Nov 03,2026
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v43_barcode.sv(7): (vopt-2685) [TFMPC] - Too few port connections for 'dut'.  Expected 19, found 16.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v43_barcode.sv(7): (vopt-2718) [TFMPC] - Missing connection for port 'O_count'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v43_barcode.sv(7): (vopt-2718) [TFMPC] - Missing connection for port 'O_order'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v43_barcode.sv(7): (vopt-2718) [TFMPC] - Missing connection for port 'O_done'.
+# //  ModelSim SE-64 10.7 Dec  7 2017
+# //
+# //  Copyright 1991-2017 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim SE-64 and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading sv_std.std
+# Loading work.tb_v43_barcode(fast)
+# onerror {quit -code 1 -f}
+#  Warning: onerror command for use within macro
+#  run -all
+# PASS tb_v43_barcode session gate, matching reads, lookup and count
+# ** Note: $finish    : E:/90806/codex/2026-10-18/qi/work/contest_sim_20261103/tests/tb_v43_barcode.sv(26)
+#    Time: 430 ns  Iteration: 1  Instance: /tb_v43_barcode
+# End time: 15:03:25 on Nov 03,2026, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 4

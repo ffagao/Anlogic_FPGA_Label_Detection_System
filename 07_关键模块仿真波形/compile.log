@@ -1,0 +1,21 @@
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+Start time: 17:01:43 on Nov 03,2026
+vlog -sv -work work E:\90806\codex\2026-10-18\qi\work\waveforms_capture_20261103\rtl\label_scene_controller.v E:\90806\codex\2026-10-18\qi\work\waveforms_capture_20261103\rtl\label_barcode_session.v E:\90806\codex\2026-10-18\qi\work\waveforms_capture_20261103\rtl\barcode_station.v E:\90806\codex\2026-10-18\qi\work\waveforms_capture_20261103\rtl\barcode_code128_pattern.v E:\90806\codex\2026-10-18\qi\work\waveforms_capture_20261103\rtl\label_char_lib.v E:\90806\codex\2026-10-18\qi\work\waveforms_capture_20261103\rtl\uart_telemetry.v E:\90806\codex\2026-10-18\qi\work\waveforms_capture_20261103\testbenches\tb_v42_dynamic_controller.sv E:\90806\codex\2026-10-18\qi\work\waveforms_capture_20261103\testbenches\tb_v43_barcode_pixels.sv E:\90806\codex\2026-10-18\qi\work\waveforms_capture_20261103\testbenches\tb_uart_telemetry.sv E:\90806\codex\2026-10-18\qi\work\waveforms_capture_20261103\testbenches\tb_v43_barcode.sv 
+-- Compiling module label_scene_controller
+-- Compiling module label_barcode_session
+-- Compiling module barcode_row_reader
+-- Compiling module barcode_code128_pattern
+-- Compiling module label_char_lib
+-- Compiling module uart_telemetry
+-- Compiling module tb_v42_dynamic_controller
+-- Compiling module tb_v43_barcode_pixels
+-- Compiling module tb_uart_telemetry
+-- Compiling module tb_v43_barcode
+
+Top level modules:
+	tb_v42_dynamic_controller
+	tb_v43_barcode_pixels
+	tb_uart_telemetry
+	tb_v43_barcode
+End time: 17:01:43 on Nov 03,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0

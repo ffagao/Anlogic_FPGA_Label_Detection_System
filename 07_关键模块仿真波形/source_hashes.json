@@ -1,0 +1,12 @@
+{
+  "rtl/label_scene_controller.v": "df6e3f1c3f3e830e6fa453a1a5b763e50884b870c0099a8e5d7d1ff32d6c634b",
+  "rtl/label_barcode_session.v": "825e2de01e3823c82f0b836ef19ac1b613d511fed1257bc1fe8f3966e2dc100b",
+  "rtl/barcode_station.v": "43edc0ffa5f4f8470979188f26c781b1d6cbb0db72c2a24f64d3c77a8eddafff",
+  "rtl/barcode_code128_pattern.v": "cde4aecdd49196314230b8ed0e9d04e14cbeb374655b09f2128bc8344303fb08",
+  "rtl/label_char_lib.v": "d8ab63b5c1426325181871cdea27ac35fa5fa8b836ff54a3cd35f45dd8b6f574",
+  "rtl/uart_telemetry.v": "d9040bb5ed139cb1bb6263235513b1d4db30f90b54a9789fd54f58f9c46905b8",
+  "testbenches/tb_v42_dynamic_controller.sv": "32619c970d74cf5030b31371a73e19d530330e9deff8426d2c16fde8f415171b",
+  "testbenches/tb_v43_barcode_pixels.sv": "681163616e2e87b7c136c03b72e39a5f05c7b960dc7d6b05d89464857d30ec0b",
+  "testbenches/tb_uart_telemetry.sv": "3529af29b90d5bbf55a5f1e37464c47f1e7e0c425e0eb7b0a30abad35ed11d42",
+  "testbenches/tb_v43_barcode.sv": "b1be0c79a9a8517187a497ab84094e6e61ee67d4ead043cd8c1083d2e027fbba"
+}

@@ -1,0 +1,60 @@
+# vsim -c -lib v34_work -l tb_v41_metrics.log -do "onerror {quit -code 1 -f}; run -all; quit -f" tb_v41_metrics 
+# Start time: 15:03:43 on Nov 03,2026
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv(5): (vopt-2685) [TFMPC] - Too few port connections for 'dut'.  Expected 29, found 13.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv(5): (vopt-2718) [TFMPC] - Missing connection for port 'O_bottom'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv(5): (vopt-2718) [TFMPC] - Missing connection for port 'O_top'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv(5): (vopt-2718) [TFMPC] - Missing connection for port 'O_right'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv(5): (vopt-2718) [TFMPC] - Missing connection for port 'O_left'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv(5): (vopt-2718) [TFMPC] - Missing connection for port 'O_track_valid'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv(5): (vopt-2718) [TFMPC] - Missing connection for port 'O_raw_bottom'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv(5): (vopt-2718) [TFMPC] - Missing connection for port 'O_raw_top'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv(5): (vopt-2718) [TFMPC] - Missing connection for port 'O_raw_right'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv(5): (vopt-2718) [TFMPC] - Missing connection for port 'O_raw_left'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv(5): (vopt-2718) [TFMPC] - Missing connection for port 'O_candidate_ok'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv(5): (vopt-2718) [TFMPC] - Missing connection for port 'O_candidate_valid'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv(5): (vopt-2718) [TFMPC] - Missing connection for port 'O_detect_shape'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv(5): (vopt-2718) [TFMPC] - Missing connection for port 'O_detect_valid'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv(5): (vopt-2718) [TFMPC] - Missing connection for port 'O_result_update'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv(5): (vopt-2718) [TFMPC] - Missing connection for port 'O_mask_seen'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv(5): (vopt-2718) [TFMPC] - Missing connection for port 'O_mask_pixel'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv(6): (vopt-2685) [TFMPC] - Too few port connections for 'ref40'.  Expected 29, found 13.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv(6): (vopt-2718) [TFMPC] - Missing connection for port 'O_bottom'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv(6): (vopt-2718) [TFMPC] - Missing connection for port 'O_top'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv(6): (vopt-2718) [TFMPC] - Missing connection for port 'O_right'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv(6): (vopt-2718) [TFMPC] - Missing connection for port 'O_left'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv(6): (vopt-2718) [TFMPC] - Missing connection for port 'O_track_valid'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv(6): (vopt-2718) [TFMPC] - Missing connection for port 'O_raw_bottom'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv(6): (vopt-2718) [TFMPC] - Missing connection for port 'O_raw_top'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv(6): (vopt-2718) [TFMPC] - Missing connection for port 'O_raw_right'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv(6): (vopt-2718) [TFMPC] - Missing connection for port 'O_raw_left'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv(6): (vopt-2718) [TFMPC] - Missing connection for port 'O_candidate_ok'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv(6): (vopt-2718) [TFMPC] - Missing connection for port 'O_candidate_valid'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv(6): (vopt-2718) [TFMPC] - Missing connection for port 'O_detect_shape'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv(6): (vopt-2718) [TFMPC] - Missing connection for port 'O_detect_valid'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv(6): (vopt-2718) [TFMPC] - Missing connection for port 'O_result_update'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv(6): (vopt-2718) [TFMPC] - Missing connection for port 'O_mask_seen'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\tb_v41_metrics.sv(6): (vopt-2718) [TFMPC] - Missing connection for port 'O_mask_pixel'.
+# //  ModelSim SE-64 10.7 Dec  7 2017
+# //
+# //  Copyright 1991-2017 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim SE-64 and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading sv_std.std
+# Loading work.tb_v41_metrics(fast)
+# onerror {quit -code 1 -f}
+#  Warning: onerror command for use within macro
+#  run -all
+# PASS tb_v41_metrics: 70001 v40-reference pipeline/shape comparisons, full-image area bounds, full20bit hit-counter range and threshold-adjacent fills
+# ** Note: $finish    : E:/90806/codex/2026-10-18/qi/work/contest_sim_20261103/tests/tb_v41_metrics.sv(50)
+#    Time: 2100060 ns  Iteration: 1  Instance: /tb_v41_metrics
+# End time: 15:03:44 on Nov 03,2026, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 34

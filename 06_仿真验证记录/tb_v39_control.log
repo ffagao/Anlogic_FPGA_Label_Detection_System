@@ -1,0 +1,43 @@
+# vsim -c -lib v34_work -l tb_v39_control.log -do "onerror {quit -code 1 -f}; run -all; quit -f" tb_v39_control 
+# Start time: 15:03:38 on Nov 03,2026
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\v34_fixtures.sv(520): (vopt-2685) [TFMPC] - Too few port connections for 'lab'.  Expected 33, found 18.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\v34_fixtures.sv(520): (vopt-2718) [TFMPC] - Missing connection for port 'O_zoom_src_y'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\v34_fixtures.sv(520): (vopt-2718) [TFMPC] - Missing connection for port 'O_zoom_src_x'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\v34_fixtures.sv(520): (vopt-2718) [TFMPC] - Missing connection for port 'O_zoom_request'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\v34_fixtures.sv(520): (vopt-2718) [TFMPC] - Missing connection for port 'I_zoom_src_y'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\v34_fixtures.sv(520): (vopt-2718) [TFMPC] - Missing connection for port 'I_zoom_src_x'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\v34_fixtures.sv(520): (vopt-2718) [TFMPC] - Missing connection for port 'I_zoom_active'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\v34_fixtures.sv(520): (vopt-2718) [TFMPC] - Missing connection for port 'I_zoom_supported'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\v34_fixtures.sv(520): (vopt-2718) [TFMPC] - Missing connection for port 'O_barcode_count'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\v34_fixtures.sv(520): (vopt-2718) [TFMPC] - Missing connection for port 'O_barcode_order'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\v34_fixtures.sv(520): (vopt-2718) [TFMPC] - Missing connection for port 'O_barcode_valid'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\v34_fixtures.sv(520): (vopt-2718) [TFMPC] - Missing connection for port 'O_status_unknowns'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\v34_fixtures.sv(520): (vopt-2718) [TFMPC] - Missing connection for port 'O_status_fails'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\v34_fixtures.sv(520): (vopt-2718) [TFMPC] - Missing connection for port 'O_status_passes'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\v34_fixtures.sv(520): (vopt-2718) [TFMPC] - Missing connection for port 'O_status_cause'.
+# ** Warning: E:\90806\codex\2026-10-18\qi\work\contest_sim_20261103\tests\v34_fixtures.sv(520): (vopt-2718) [TFMPC] - Missing connection for port 'O_status_result'.
+# //  ModelSim SE-64 10.7 Dec  7 2017
+# //
+# //  Copyright 1991-2017 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim SE-64 and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading sv_std.std
+# Loading work.tb_v39_control(fast)
+# Loading work.label_trig_sync(fast)
+# onerror {quit -code 1 -f}
+#  Warning: onerror command for use within macro
+#  run -all
+# PASS tb_v39_control: all RGB/shape scenes, CUSTOM tracking, atomic arm after colour commit, immediate mode-bound keys, physical guards, learning/AE/algorithms/label and invalid fields
+# ** Note: $finish    : E:/90806/codex/2026-10-18/qi/work/contest_sim_20261103/tests/tb_v39_control.sv(46)
+#    Time: 946700 ns  Iteration: 1  Instance: /tb_v39_control
+# End time: 15:03:39 on Nov 03,2026, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 16
